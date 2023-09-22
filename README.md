@@ -65,21 +65,13 @@
 
 ### Как запустить?
 
-#### Локально
-
-`...`, чтобы запустить лабораторную на http://localhost:3000.
-
 #### Helios
 
-[Гайд](https://github.com/AppLoidx/Web-Development-Cheats/blob/master/itmo-university/%D0%94%D0%B5%D0%BF%D0%BB%D0%BE%D0%B8%D0%BC%202%20%D0%BB%D0%B0%D0%B1%D1%83%20%D0%BD%D0%B0%20helios%2C%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F%20WildFly.md) по деплою на helios в `WildFly`.
+[Гайд](https://github.com/AppLoidx/Web-Development-Cheats/blob/master/itmo-university/%D0%94%D0%B5%D0%BF%D0%BB%D0%BE%D0%B8%D0%BC%202%20%D0%BB%D0%B0%D0%B1%D1%83%20%D0%BD%D0%B0%20helios%2C%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F%20WildFly.md) по деплою на Helios в `WildFly`.
 
-### Тестирование
+#### Локально
 
-Используйте
-
-    ...
-
-чтобы запустить тесты.
+Как на Helios, но локально :grin:
 
 ## Лицензия <a name="license"></a>
 
