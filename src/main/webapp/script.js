@@ -147,7 +147,10 @@ function createNotification(message) {
   if (outputContainer.contains(document.querySelector(".notification"))) {
     let stub = document.querySelector(".notification");
     stub.textContent = message;
-    stub.classList.replace("outputStub", "errorStub");
+    stub.classList.add("errorStub");
+    if (stub.classList.contains("outputStub")) {
+      stub.classList.remove("outputStub");
+    }
   } else {
     let notificationTableRow = document.createElement("h4");
     notificationTableRow.innerHTML = "<span class='notification errorStub'></span>";
